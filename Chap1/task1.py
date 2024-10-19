@@ -4,7 +4,7 @@ import multiprocessing
 import threading
 
 if __name__ == "__main__":
-    size = 10000000
+    size = 200000
     procs = 10
     jobs = []
 
